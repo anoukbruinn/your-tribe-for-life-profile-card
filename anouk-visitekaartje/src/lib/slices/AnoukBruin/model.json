@@ -1,0 +1,26 @@
+{
+  "id": "anouk_bruin",
+  "type": "SharedSlice",
+  "name": "AnoukBruin",
+  "description": "AnoukBruin",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "title",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}
