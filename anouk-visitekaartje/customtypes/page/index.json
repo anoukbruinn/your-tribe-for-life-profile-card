@@ -28,6 +28,38 @@
           "thumbnails": []
         }
       },
+      "github": {
+        "type": "Image",
+        "config": {
+          "label": "github",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "facebook": {
+        "type": "Image",
+        "config": {
+          "label": "facebook",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "email": {
+        "type": "Image",
+        "config": {
+          "label": "email",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "instagram": {
+        "type": "Image",
+        "config": {
+          "label": "instagram",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
       "slices": {
         "type": "Slices",
         "fieldset": "Slice Zone",
