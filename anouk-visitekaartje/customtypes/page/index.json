@@ -60,6 +60,85 @@
           "thumbnails": []
         }
       },
+      "bericht": {
+        "type": "Text",
+        "config": {
+          "label": "bericht",
+          "placeholder": ""
+        }
+      },
+      "foto1": {
+        "type": "Image",
+        "config": {
+          "label": "foto1",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "foto2": {
+        "type": "Image",
+        "config": {
+          "label": "foto2",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "foto3": {
+        "type": "Image",
+        "config": {
+          "label": "foto3",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "foto4": {
+        "type": "Image",
+        "config": {
+          "label": "foto4",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "foto5": {
+        "type": "Image",
+        "config": {
+          "label": "foto5",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "foto6": {
+        "type": "Image",
+        "config": {
+          "label": "foto6",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "foto7": {
+        "type": "Image",
+        "config": {
+          "label": "foto7",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "foto8": {
+        "type": "Image",
+        "config": {
+          "label": "foto8",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "foto9": {
+        "type": "Image",
+        "config": {
+          "label": "foto9",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
       "slices": {
         "type": "Slices",
         "fieldset": "Slice Zone",
